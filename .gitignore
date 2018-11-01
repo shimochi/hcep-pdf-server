@@ -1,5 +1,2 @@
 *.sh
-fonts/*
-!fonts/empty
-!fonts/fonts.conf
 *.swp
